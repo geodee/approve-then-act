@@ -1,0 +1,7 @@
+# The core demo runs on the standard library alone. Nothing to install to try it.
+# For the test suite:
+pytest>=7.0
+
+# Optional, only if you wire in a real LLM classifier:
+# anthropic>=0.39
+# openai>=1.0

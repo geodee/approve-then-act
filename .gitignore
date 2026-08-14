@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# runtime state written by the demo
+state.json
+state.json.tmp
+crm.json

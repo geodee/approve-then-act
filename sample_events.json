@@ -1,0 +1,7 @@
+[
+  {"id": "evt-001", "from": "amy@acme.com",   "subject": "Refund for double charge",      "body": "I was charged twice this month, please refund one."},
+  {"id": "evt-002", "from": "lead@bigco.com", "subject": "Pricing for 50 seats + a demo",  "body": "Can you send pricing and book a demo this week?"},
+  {"id": "evt-003", "from": "user@site.com",  "subject": "Can't login, need password reset","body": "Locked out of my account, please reset my password."},
+  {"id": "evt-004", "from": "bot@list.io",    "subject": "unsubscribe me",                 "body": "unsubscribe"},
+  {"id": "evt-001", "from": "amy@acme.com",   "subject": "Refund for double charge",       "body": "same event, redelivered by the webhook"}
+]
