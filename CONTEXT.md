@@ -18,4 +18,6 @@ Output: the project’s established deliverable location. Human check: George, o
 Existing repositories retain their build layout; put new independent code in src/.
 
 ## Fixes
+Before holding a task for a missing path or tool, inspect the current router and registered tool catalog and correct a known no-effect routing error within existing permissions. Continue independent authorized steps. Hold only actions that depend on unavailable authority or unresolved source facts. Preserve the following no-invention and uncertain-effect rule unchanged. A verified no-effect read/tool failure may be corrected or retried within existing permissions. Missing required source facts hold dependent work. Uncertain external effects remain held for reconciliation and must not be replayed.
+
 If a path or tool is missing, stop and correct the route; do not invent results or replay uncertain actions.
